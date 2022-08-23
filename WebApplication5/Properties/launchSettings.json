@@ -4,8 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:26787",
-      "sslPort": 44339
+      "applicationUrl": "http://localhost:25762",
+      "sslPort": 44337
     }
   },
   "profiles": {
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Codehesion_API": {
+    "WebApplication5": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
